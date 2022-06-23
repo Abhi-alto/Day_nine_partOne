@@ -55,6 +55,7 @@ namespace EmployeeWage
                     totHrs = totHrs + day_hr;
                 }
             }
+
             Console.WriteLine("Total wage of the employee for the month is = Rs." + ToMonWag);  //total monthly wage of the employee
         }
     }

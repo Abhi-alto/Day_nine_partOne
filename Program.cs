@@ -8,5 +8,5 @@ if (choice < 1 || choice > 2)
 }
 else
 {
-    Wages.compute(choice);
+    Wages.compute(choice);    
 }
